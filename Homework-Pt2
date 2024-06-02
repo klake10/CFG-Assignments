@@ -1,0 +1,22 @@
+Define unshift, shift, split:
+unshift() adds one or more elements to the start of an array.
+shift() extracts the first element from an array.
+split() splits a string into an array of substrings using a specified separator.
+
+
+Define object methods:
+Object methods are a key part of JavaScript that allow you to add functions to objects. 
+These methods help you organize your code better, making it easier to manage and reuse. 
+By using methods, you can directly work with the data and properties inside an object.
+
+
+
+Define:
+The onmouseover event is usseful for making websites more interactive. 
+When a user moves their mouse over something, like a button or a picture, this event can trigger changes, like changing colors or showing more information. 
+This makes the website more exciting to use and helps users understand what they can do on the page.
+
+
+Explain two DOM events:
+The onclick event happens when you click on something, like a button. It's used for things like handling button clicks. 
+The onkeyup event occurs when you release a key after pressing it. It's useful for tasks that need quick feedback, like checking how many characters you've typed in a text box.
