@@ -5,7 +5,7 @@ split() splits a string into an array of substrings using a specified separator.
 
 
 Define object methods:
-Object methods are a key part of JavaScript that allow you to add functions to objects. 
+Object methods are a key part of JavaScript that allows you to add functions to objects. 
 These methods help you organize your code better, making it easier to manage and reuse. 
 By using methods, you can directly work with the data and properties inside an object.
 
@@ -13,7 +13,7 @@ By using methods, you can directly work with the data and properties inside an o
 
 Define:
 The onmouseover event is usseful for making websites more interactive. 
-When a user moves their mouse over something, like a button or a picture, this event can trigger changes, like changing colors or showing more information. 
+When a user moves their mouse over something, like a button or a picture, this event can trigger changes, like changing colours or showing more information. 
 This makes the website more exciting to use and helps users understand what they can do on the page.
 
 
