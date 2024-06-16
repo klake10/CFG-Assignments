@@ -1,0 +1,9 @@
+AlbumID,Title,Genre,ReleaseDate,ArtistID,Price
+7,"Bug Blues",Blues,2017-09-09,7,14.99
+2,"Byte Me",Pop,2012-05-15,2,12.99
+4,"C Sharp",Classical,2018-03-10,4,10.99
+5,"Cache Me Outside",Hip-Hop,2020-07-07,5,8.99
+1,"Code First GRRRR",Rock,2010-01-01,1,9.99
+6,"Hugs N Bugs",Country,2013-12-25,6,13.99
+3,"Java Jazzin",Jazz,2015-11-20,3,15.99
+8,"Si Plus Plus",Reggaeton,2021-11-11,8,11.99
