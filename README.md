@@ -1,8 +1,9 @@
 **Please open these files:**
 
-krystals_music_shop
-krystals_music_shop.sql
-krystals_music_shop.zip
+- krystals_music_shop
+- krystals_music_shop.sql
+- krystals_music_shop.zip
+
 
 
 **Other Notes:**
