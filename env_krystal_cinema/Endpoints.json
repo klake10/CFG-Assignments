@@ -1,0 +1,9 @@
+{
+    "name": "John Doe",
+    "movie": "Inception",
+    "date": "2024-07-15",
+    "time": "19:00",
+    "is_3d": true,
+    "tickets": 2
+  }
+  
